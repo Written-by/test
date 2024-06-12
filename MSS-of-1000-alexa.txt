@@ -1,0 +1,87 @@
+MSS for google.com: 1412
+MSS for youtube.com: 1412
+MSS for tmall.com: 1440
+MSS for qq.com: 1440
+MSS for baidu.com: 536
+MSS for facebook.com: 1392
+MSS for sohu.com: 1460
+MSS for login.tmall.com: 1460
+MSS for taobao.com: 1440
+MSS for yahoo.com: 1460
+MSS for jd.com: 1460
+MSS for wikipedia.org: 1436
+MSS for 360.cn: 1402
+MSS for amazon.com: 536
+MSS for sina.com.cn: 1452
+MSS for pages.tmall.com: 1460
+MSS for weibo.com: 1452
+MSS for live.com: 1440
+MSS for reddit.com: 1460
+MSS for vk.com: 1410
+MSS for okezone.com: 1440
+MSS for xinhuanet.com: 1460
+MSS for netflix.com: 1460
+MSS for blogspot.com: 1412
+MSS for csdn.net: 1460
+MSS for office.com: 1440
+MSS for alipay.com: 1440
+MSS for yahoo.co.jp: 1460
+MSS for instagram.com: 1392
+MSS for zhanqi.tv: 1460
+MSS for bongacams.com: 1460
+Error: [Errno -5] No address associated with hostname
+Failed to retrieve MSS for microsoftonline.com.
+MSS for naver.com: 1440
+Error: [Errno -5] No address associated with hostname
+Failed to retrieve MSS for panda.tv.
+MSS for bing.com: 1440
+MSS for google.com.hk: 1412
+MSS for microsoft.com: 1440
+MSS for stackoverflow.com: 1400
+MSS for tribunnews.com: 1440
+MSS for livejasmin.com: 1460
+MSS for china.com.cn: 1460
+MSS for twitch.tv: 1460
+MSS for google.co.in: 1412
+MSS for aliexpress.com: 1440
+MSS for ebay.com: 1460
+MSS for amazon.co.jp: 536
+MSS for mama.cn: 1424
+MSS for twitter.com: 1460
+MSS for myshopify.com: 1460
+MSS for msn.com: 1440
+Error: [Errno -3] Temporary failure in name resolution
+Failed to retrieve MSS for tianya.cn.
+MSS for linkedin.com: 1440
+MSS for amazon.in: 536
+MSS for ok.ru: 1440
+MSS for adobe.com: 1460
+MSS for yandex.ru: 1410
+MSS for pornhub.com: 1460
+MSS for apple.com: 1456
+MSS for wordpress.com: 1460
+MSS for dropbox.com: 1440
+MSS for mail.ru: 1410
+MSS for google.com.br: 1412
+MSS for sogou.com: 1424
+MSS for whatsapp.com: 1392
+MSS for bilibili.com: 1460
+MSS for yy.com: 1360
+MSS for huanqiu.com: 1460
+MSS for chaturbate.com: 1400
+MSS for trello.com: 1440
+MSS for detail.tmall.com: 1460
+MSS for instructure.com: 1460
+MSS for imdb.com: 536
+MSS for medium.com: 1400
+MSS for cnn.com: 1460
+MSS for aparat.com: 1460
+MSS for nytimes.com: 1460
+MSS for booking.com: 1440
+Failed to retrieve MSS for 17ok.com.
+MSS for xvideos.com: 1460
+MSS for bbc.com: 1460
+MSS for detik.com: 1460
+Failed to retrieve MSS for amazonaws.com.
+MSS for google.co.jp: 1412
+MSS for indeed.com: 1400
