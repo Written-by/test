@@ -10,7 +10,7 @@ taobao.com,1440
 yahoo.com,1460
 jd.com,1460
 wikipedia.org,1436
-360.cn,1452
+360.cn,1402
 amazon.com,536
 sina.com.cn,1452
 pages.tmall.com,1460
@@ -24,7 +24,7 @@ netflix.com,1460
 blogspot.com,1412
 csdn.net,1460
 office.com,1440
-alipay.com,1440
+alipay.com,1444
 yahoo.co.jp,1460
 instagram.com,1392
 zhanqi.tv,1460
@@ -40,13 +40,13 @@ microsoft.com,1390
 stackoverflow.com,1400
 tribunnews.com,1440
 livejasmin.com,1460
-china.com.cn,1460
+china.com.cn,error
 twitch.tv,1360
 google.co.in,1412
 aliexpress.com,1440
 ebay.com,1460
 amazon.co.jp,536
-mama.cn,1424
+mama.cn,error
 twitter.com,1460
 myshopify.com,1460
 msn.com,1440
@@ -82,7 +82,7 @@ booking.com,1440
 xvideos.com,1460
 bbc.com,1360
 detik.com,1460
-amazonaws.com,536
+amazonaws.com,error
 google.co.jp,1412
 indeed.com,1400
 spotify.com,1412
@@ -141,7 +141,7 @@ roblox.com,1400
 discordapp.com,1400
 mailchimp.com,1460
 uol.com.br,1460
-iqoption.com,536
+iqoption.com,1436
 zhihu.com,536
 gome.com.cn,error
 google.com.mx,1412
@@ -172,7 +172,7 @@ grammarly.com,1460
 archive.org,1436
 primevideo.com,1440
 craigslist.org,536
-washingtonpost.com,1460
+washingtonpost.com,1440
 wikihow.com,1360
 sindonews.com,1440
 zillow.com,1440
@@ -181,8 +181,8 @@ abs-cbn.com,1460
 varzesh3.com,1460
 so.com,1402
 duckduckgo.com,1440
-rednet.cn,1424
-aliyun.com,1452
+rednet.cn,error
+aliyun.com,536
 iqiyi.com,1460
 force.com,1348
 godaddy.com,1460
@@ -239,7 +239,7 @@ google.co.th,1412
 chouftv.ma,1400
 postlnk.com,1460
 icicibank.com,1440
-skype.com,1440
+skype.com,1390
 foxnews.com,1460
 dailymotion.com,1460
 manoramaonline.com,1460
@@ -264,7 +264,7 @@ behance.net,1360
 smallpdf.com,1440
 amazon.es,536
 hulu.com,1460
-slack.com,1460
+slack.com,1300
 suara.com,1400
 hotstar.com,1440
 mozilla.org,1460
@@ -281,7 +281,7 @@ ebay.co.uk,1460
 alwafd.news,1400
 weebly.com,1460
 elbalad.news,1400
-googlevideo.com,error
+googlevideo.com,1412
 breitbart.com,1412
 tripadvisor.com,1360
 cricbuzz.com,1420
@@ -311,7 +311,7 @@ ebay-kleinanzeigen.de,1460
 chinadaily.com.cn,1360
 telewebion.com,1460
 cambridge.org,1400
-gatustox.net,1460
+gatustox.net,error
 asos.com,1460
 samsung.com,1460
 sberbank.ru,536
@@ -374,7 +374,7 @@ investopedia.com,1360
 Error: [Errno -2] Name or service not known
 la1dwne9cn5c.com,error
 gmx.net,1460
-zoho.com,1436
+zoho.com,536
 miao.tmall.com,1460
 irs.gov,1460
 freelancer.com,1460
@@ -444,7 +444,7 @@ citi.com,536
 libero.it,1332
 in.gr,1460
 1337x.to,1400
-emol.com,256
+emol.com,1460
 wordreference.com,1460
 livejournal.com,1460
 shimo.im,1460
@@ -492,7 +492,7 @@ lun.com,1460
 namu.wiki,1400
 onet.pl,1440
 cdc.gov,1380
-81.cn,1460
+81.cn,1420
 steampowered.com,1460
 shopee.tw,1420
 eksisozluk.com,1400
@@ -517,7 +517,7 @@ taleo.net,1380
 slickdeals.net,1400
 mileroticos.com,1400
 marca.com,1460
-usatoday.com,1460
+usatoday.com,1360
 web.de,1460
 duolingo.com,1460
 google.com.pk,1412
@@ -559,7 +559,7 @@ sozcu.com.tr,1400
 freshdesk.com,1440
 tsetmc.com,error
 wayfair.com,1360
-shopee.co.id,1410
+shopee.co.id,1420
 google.dz,1412
 feedly.com,1400
 milliyet.com.tr,536
@@ -595,7 +595,7 @@ efu.com.cn,error
 creditkarma.com,1460
 theverge.com,1360
 vidio.com,1440
-webex.com,error
+webex.com,536
 agoda.com,1400
 mit.edu,1460
 nbcnews.com,1460
@@ -658,7 +658,7 @@ basichouse.tmall.com,536
 uptodown.com,1360
 gamespot.com,1360
 evernote.com,1412
-disneyplus.com,1460
+disneyplus.com,1452
 Error: [Errno -5] No address associated with hostname
 xianjichina.com,error
 ameritrade.com,536
@@ -708,7 +708,7 @@ timeanddate.com,1460
 atlassian.net,1460
 gusuwang.com,1460
 kooora.com,1400
-umeng.com,1460
+umeng.com,error
 asriran.com,1460
 dmm.com,1460
 yeniakit.com.tr,1400
@@ -728,7 +728,7 @@ google.com.my,1412
 lachapelle.tmall.com,536
 zomato.com,1460
 agah.com,1460
-uidai.gov.in,error
+uidai.gov.in,536
 kitco.com,1360
 smartsheet.com,1360
 schwab.com,1436
@@ -747,7 +747,7 @@ leagueoflegends.com,1460
 argaam.com,1460
 nur.kz,1460
 livedoor.jp,1440
-runoob.com,536
+runoob.com,error
 bitly.com,1412
 nvxie.tmall.com,1460
 hm.com,1460
@@ -764,7 +764,7 @@ payu.in,1440
 emofid.com,1460
 maniform.tmall.com,536
 ekaie.com,1400
-iyiou.com,1424
+iyiou.com,1360
 newbalance.tmall.com,536
 aofex.com,1400
 kijiji.ca,1412
@@ -779,7 +779,7 @@ house365.com,1450
 superuser.com,1400
 animeflv.net,1400
 gainreel.tmall.com,536
-royalbank.com,1460
+royalbank.com,error
 Error: [Errno -2] Name or service not known
 cnbeta.com,error
 hatenablog.com,1460
@@ -815,7 +815,7 @@ honeys.tmall.com,536
 ozon.ru,1460
 elmundo.es,1460
 dnevnik.ru,1440
-zara.com,1460
+zara.com,1384
 freejobalert.com,1400
 shopee.vn,1420
 asus.com,1460
@@ -849,7 +849,7 @@ drudgereport.com,1400
 wp.com,1460
 shouji.tmall.com,1460
 caixa.gov.br,1380
-epwk.com,1424
+epwk.com,error
 americanas.com.br,1460
 5ch.net,1400
 newtalk.tw,1400
@@ -860,11 +860,11 @@ fivethirtyeight.com,1460
 w3school.com.cn,1460
 126.com,1452
 baby.tmall.com,1460
-dw.com,1460
+dw.com,536
 semir.tmall.com,536
 Error: [Errno -5] No address associated with hostname
 nhk.or.jp,error
-sf-express.com,error
+sf-express.com,1440
 over-blog.com,1460
 eland.tmall.com,536
 hh.ru,1400
@@ -958,7 +958,7 @@ neobux.com,1400
 imis.tmall.com,536
 jackjones.tmall.com,536
 multiurok.ru,1400
-sincenturypro.pro,1460
+sincenturypro.pro,error
 viva.co.id,1400
 dcinside.com,1460
 championat.com,1460
@@ -968,7 +968,7 @@ eenadu.net,1460
 teamviewer.com,1460
 vectorstock.com,1440
 state.gov,1460
-sabah.com.tr,536
+sabah.com.tr,1460
 zol.com.cn,536
 mercadolibre.com.ve,1460
 fararu.com,1460
@@ -994,10 +994,10 @@ pcbaby.com.cn,1460
 cna.com.tw,1412
 Error: [Errno -5] No address associated with hostname
 9384.com,error
-semanticscholar.org,1440
+semanticscholar.org,error
 Error: [Errno -3] Temporary failure in name resolution
 pelisplus.me,error
-ssc.nic.in,1460
+ssc.nic.in,536
 newegg.com,516
 book.tmall.com,1460
 gazetaexpress.com,1400
@@ -1008,7 +1008,7 @@ goal.com,1460
 edh.tw,1440
 narcity.com,1460
 rbc.ru,536
-pearsoned.com,1460
+pearsoned.com,error
 chinanetrank.com,error
 zhcw.com,1412
 thefreedictionary.com,1460
@@ -1030,6 +1030,6 @@ sci-hub.tw,536
 mobile.de,1440
 jia400.com,1412
 wunderground.com,1460
-shopee.com.my,1420
+shopee.com.my,1452
 axisbank.com,1460
 theatlantic.com,1360
